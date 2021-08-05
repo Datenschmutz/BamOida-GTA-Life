@@ -2,7 +2,7 @@
 name: Feature-Anfrage
 about: Eine Idee für das GTA Live Projekt vorschlagen
 title: "[Feature-Req]"
-labels: Open
+labels: Feature Request, Open
 assignees: ''
 
 ---
