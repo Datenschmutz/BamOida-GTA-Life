@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Erstelle einen Bericht, der uns hilft, den Server zu verbessern
-title: "[BUG-REPORT]"
+title: "[BUG-REPORT] HIER DEINEN TITEL EINTRAGEN"
 labels: Open
 assignees: ''
 
