@@ -2,7 +2,7 @@
 name: Translation Error
 about: Erstelle einen Bericht der und hilft fehlende Übersetzungen zu ergänzen und
   Fehler zu beheben
-title: ''
+title: "[Translation Err] ---ADD TITLE HERE---"
 labels: Open, Translation Error
 assignees: ''
 
